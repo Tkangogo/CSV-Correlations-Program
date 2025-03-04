@@ -54,5 +54,5 @@ The **CSV Correlations Program** is a graphical user interface (GUI) application
 
 
 ---
-This program simplifies correlation analysis by providing an easy-to-use interface for data visualization and interpretation. 🚀
+This program simplifies correlation analysis by providing an easy-to-use interface for data visualization and interpretation. 
 
